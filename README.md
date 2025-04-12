@@ -28,4 +28,4 @@ True mastery’s humble, embracing the way.
 The fall of the sensei, a lesson defined:
 Integrity lost is a price hard to pay.
 
-Zabka Żabka
+Zabka Żabka no se encuentra aquí

@@ -30,5 +30,4 @@ Integrity lost is a price hard to pay.
 
 Zabka Żabka no se encuentra aquí
 
-Also see [Attempts to fix Pipelines](https://github.com/Coon-and-friends/Pipeline-Fix/tree/main) **Hacker Existencial
-**
+Also see [Attempts to fix Pipelines](https://github.com/Coon-and-friends/Pipeline-Fix/tree/main) **Hacker Existencial**
